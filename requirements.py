@@ -1,4 +1,4 @@
-requirements=[
+requirements==[
     'Flask>=0.12.0',
     'Flask-WTF==0.8.4',
     'Flask-Gravatar',
